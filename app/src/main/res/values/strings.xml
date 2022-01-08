@@ -1,0 +1,10 @@
+<resources>
+	<string name="app_name">WorkManager-PinLokasi</string>
+	<string name="action_settings">Pengaturan</string>
+	<string name="button_text_stop">Berhenti</string>
+	<string name="message_worker_running">Sedang mencari lokasi...</string>
+	<string name="message_worker_stopped">Pencarian lokasi berhenti</string>
+	<string name="log_for_running">Setiap 15 menit pin lokasi akan berganti.</string>
+	<string name="log_for_stopped">Klik tombol mulai untuk mendapatkan lokasi setiap 15 menit</string>
+	<string name="button_text_start">Mulai</string>
+</resources>
